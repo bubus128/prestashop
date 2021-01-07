@@ -4,7 +4,7 @@
     'database_host' => 'mariadb',
     'database_port' => '',
     'database_name' => 'db_4',
-    'database_user' => 'root',
+    'database_user' => 'user_4',
     'database_password' => 'root',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
