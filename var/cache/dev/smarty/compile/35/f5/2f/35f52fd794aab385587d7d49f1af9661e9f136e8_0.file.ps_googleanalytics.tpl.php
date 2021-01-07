@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2021-01-07 14:27:23
+/* Smarty version 3.1.33, created on 2021-01-07 16:57:23
   from '/var/www/html/prestashop/modules/ps_googleanalytics/views/templates/hook/ps_googleanalytics.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5ff70c3b14b5d9_85363168',
+  'unifunc' => 'content_5ff72f63bcbef1_50606834',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ff70c3b14b5d9_85363168 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ff72f63bcbef1_50606834 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 
 <?php echo '<script'; ?>

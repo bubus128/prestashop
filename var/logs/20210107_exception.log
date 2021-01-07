@@ -1,1 +1,2 @@
 *ERROR* 	v1.7.6.8	2021/01/07 - 09:45:57: Link to database cannot be established: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Name or service not known at line 127 in file classes/db/DbPDO.php
+*ERROR* 	v1.7.6.8	2021/01/07 - 15:45:51: Link to database cannot be established: SQLSTATE[HY000] [2002] Connection refused at line 127 in file classes/db/DbPDO.php
